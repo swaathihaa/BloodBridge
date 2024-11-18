@@ -51,12 +51,12 @@ sudo yum install git -y
 
 git clone
 
-##DEMO LINK
-https://drive.google.com/drive/folders/1DA3HZ2YhXmR48wxv-lIyX2cCmsM2bD9r?usp=sharing
-
 cd
 
 pip install mysql-connector-python
 
 python app.py
 
+## DEMO LINK
+
+https://drive.google.com/drive/folders/1DA3HZ2YhXmR48wxv-lIyX2cCmsM2bD9r?usp=sharing
